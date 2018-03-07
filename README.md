@@ -1,4 +1,4 @@
-# #ShefCodeFirst Flask (Python) Live Demo
-A demo repository made and coded live during #ShefCodeFirst's Advance Python course sessions.
+# #ShefCodeFirst Python Flask app starting point
 
-The repository also shows where files and folders should go in the Git repo in a typical Flask app.
+A minimal repository containing the core files and folder structure that can be used as a starting
+point for students looking to build and deploy their app for their final course project.
