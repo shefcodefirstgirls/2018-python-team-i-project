@@ -5,7 +5,7 @@ from flask import Flask, render_template, request
 app = Flask("my_first_app")
 
 @app.route("/")
-def say_hello():
+def index():
     return render_template("index.html")
 
 @app.route("/<name>")
